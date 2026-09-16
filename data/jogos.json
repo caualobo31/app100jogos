@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "JG-001",
+    "nome": "Termômetro da Preocupação",
+    "demanda": "ansiedade",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "identificacao",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Mede a intensidade da preocupação e escolhe a estratégia conforme o nível.",
+    "instrucoes": [
+      "A criança joga o dado e anda pelo tabuleiro-termômetro.",
+      "Ao cair numa situação, marca no termômetro o quanto aquilo a preocupa.",
+      "Nas casas de estratégia, escolhe uma forma de baixar o termômetro."
+    ],
+    "observar": [
+      "Situações que disparam os níveis mais altos.",
+      "Estratégias que ela já reconhece como úteis."
+    ],
+    "fechamento": [
+      "Qual situação hoje mais subiu seu termômetro?",
+      "O que te ajuda a fazer ele descer?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-001/JG-001_Termometro-da-Preocupacao.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-002",
+    "nome": "Caça-Preocupações",
+    "demanda": "ansiedade",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconhecimento",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Captura o pensamento preocupante e testa se é real ou exagero.",
+    "instrucoes": [
+      "Embaralhe as cartas de preocupação com a face para baixo.",
+      "A criança vira uma e vocês decidem juntos: é perigo real ou exagero da cabeça?",
+      "Se for exagero, pensem no que provavelmente vai acontecer de verdade."
+    ],
+    "observar": [
+      "Preocupações que ela leva mais a sério do que precisa.",
+      "Se consegue gerar alternativas realistas."
+    ],
+    "fechamento": [
+      "Qual preocupação hoje era mais exagero do que perigo?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-002/JG-002_Caca-Preocupacoes.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-003",
+    "nome": "Roleta do Respira",
+    "demanda": "ansiedade",
+    "formato": "roleta",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "ansiosa",
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Sorteia uma técnica de respiração e aterramento para praticar na hora.",
+    "instrucoes": [
+      "Deixe a roleta na mesa e explique que cada campo é um jeito de acalmar o corpo.",
+      "A criança gira e pratica a técnica sorteada junto com você.",
+      "Repita a favorita duas vezes e nomeiem como o corpo ficou."
+    ],
+    "observar": [
+      "Qual técnica mais reduz a ativação dessa criança.",
+      "Se ela percebe a mudança no corpo depois."
+    ],
+    "fechamento": [
+      "Qual respiração você levaria pra casa?",
+      "Onde no corpo você sentiu que acalmou?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-003/JG-003_Roleta-do-Respira.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-004",
+    "nome": "Trilha do Passo a Passo",
+    "demanda": "ansiedade",
+    "formato": "trilha",
+    "objetivos": [
+      "enfrentamento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Exposição gradual: encara a situação temida em pequenos passos.",
+    "instrucoes": [
+      "Escolham juntos uma situação que dá medo ou ansiedade.",
+      "Quebrem em pequenos passos e avancem um degrau por vez na trilha.",
+      "A cada passo vencido, comemorem antes de ir ao próximo."
+    ],
+    "observar": [
+      "Em qual degrau a ansiedade aumenta.",
+      "Recursos que ela usa para avançar."
+    ],
+    "fechamento": [
+      "Qual passo foi mais difícil? O que te ajudou a dar ele?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-004/JG-004_Trilha-do-Passo-a-Passo.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-005",
+    "nome": "Monstro das Preocupações",
+    "demanda": "ansiedade",
+    "formato": "cartas",
+    "objetivos": [
+      "expressao",
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal",
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Nomeia a preocupação como personagem e a encolhe com evidências.",
+    "instrucoes": [
+      "A criança desenha ou monta o Monstro das Preocupações e dá um nome a ele.",
+      "Vira as cartas de fala do monstro e responde com uma carta que o encolhe.",
+      "A cada resposta boa, o monstro fica menorzinho."
+    ],
+    "observar": [
+      "Como ela reage ao dar voz e forma à preocupação.",
+      "Se consegue contra-argumentar o monstro."
+    ],
+    "fechamento": [
+      "O que faz seu monstro encolher mais rápido?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-005/JG-005_Monstro-das-Preocupacoes.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-006",
+    "nome": "Dado do E Se…?",
+    "demanda": "ansiedade",
+    "formato": "dados",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Cada face traz um 'e se…' e a criança treina uma resposta possível e calma.",
+    "instrucoes": [
+      "A criança joga o dado e lê o 'e se…' que caiu.",
+      "Juntos, respondem: o que dá pra fazer se isso acontecer de verdade?",
+      "Termine cada resposta com '…e mesmo assim eu fico bem'."
+    ],
+    "observar": [
+      "'E se…' que mais a paralisa.",
+      "Se consegue enxergar uma saída para cada um."
+    ],
+    "fechamento": [
+      "Qual 'e se…' assusta menos agora que você pensou numa saída?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-006/JG-006_Dado-do-E-Se.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-007",
+    "nome": "Bingo do Calmante",
+    "demanda": "ansiedade",
+    "formato": "bingo",
+    "objetivos": [
+      "autorregulacao",
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca as estratégias de autorregulação que já sabe usar.",
+    "instrucoes": [
+      "Cada um pega uma cartela de estratégias.",
+      "Sorteie as fichas: quem tem a estratégia marca e conta quando já usou.",
+      "Ganha quem completar uma linha de estratégias que sabe usar."
+    ],
+    "observar": [
+      "Estratégias que já fazem parte do repertório dela.",
+      "Quais ela nunca tentou."
+    ],
+    "fechamento": [
+      "Qual estratégia nova você quer testar essa semana?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-007/JG-007_Bingo-do-Calmante.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-008",
+    "nome": "Memória do Corpo Calmo",
+    "demanda": "ansiedade",
+    "formato": "memoria",
+    "objetivos": [
+      "identificacao",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Pares de sinal corporal da ansiedade + técnica que acalma cada um.",
+    "instrucoes": [
+      "Espalhe as cartas viradas para baixo.",
+      "A criança vira duas e vê se o sinal do corpo combina com a técnica que acalma.",
+      "Ao formar o par, ela pratica a técnica."
+    ],
+    "observar": [
+      "Se reconhece os próprios sinais corporais de ansiedade.",
+      "Técnicas que fazem sentido pra ela."
+    ],
+    "fechamento": [
+      "Qual sinal seu corpo dá primeiro quando fica ansioso?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-008/JG-008_Memoria-do-Corpo-Calmo.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-009",
+    "nome": "Semáforo da Ansiedade",
+    "demanda": "ansiedade",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "identificacao",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa",
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Reconhece o nível (verde/amarelo/vermelho) e age antes de escalar.",
+    "instrucoes": [
+      "A criança anda pelo tabuleiro e, a cada situação, diz em qual cor está.",
+      "No amarelo, escolhe uma estratégia antes de virar vermelho.",
+      "No vermelho, treina pedir ajuda ou pausar."
+    ],
+    "observar": [
+      "Se percebe a passagem do verde pro amarelo (o aviso).",
+      "O que costuma levá-la direto pro vermelho."
+    ],
+    "fechamento": [
+      "Como você sabe que está saindo do verde?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-009/JG-009_Semaforo-da-Ansiedade.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-010",
+    "nome": "Caixa de Ferramentas Calma",
+    "demanda": "ansiedade",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconhecimento",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Monta um kit pessoal de estratégias para levar para casa.",
+    "instrucoes": [
+      "Espalhe as cartas de ferramentas de calma.",
+      "A criança escolhe as que funcionam pra ela e monta a própria caixa.",
+      "Ela leva a caixa pra casa e usa quando a ansiedade aparecer."
+    ],
+    "observar": [
+      "Quais ferramentas ela sente que são dela.",
+      "Se consegue imaginar usando em casa."
+    ],
+    "fechamento": [
+      "Qual ferramenta vai ser a primeira que você usa em casa?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-010/JG-010_Caixa-de-Ferramentas-Calma.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-011",
+    "nome": "Trilha da Noite Tranquila",
+    "demanda": "ansiedade",
+    "formato": "trilha",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Passo a passo da rotina de sono e da ansiedade noturna.",
+    "instrucoes": [
+      "Percorram a trilha montando a rotina da noite da criança.",
+      "Em cada casa, ela conta como é ou como poderia ser esse momento.",
+      "Marquem os passos que ajudam a deixar a cabeça mais leve pra dormir."
+    ],
+    "observar": [
+      "O que costuma acelerar a cabeça dela na hora de dormir.",
+      "Passos da rotina que faltam ou atrapalham."
+    ],
+    "fechamento": [
+      "Qual passo novo você quer colocar na sua noite?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-011/JG-011_Trilha-da-Noite-Tranquila.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-012",
+    "nome": "Roleta dos Pensamentos",
+    "demanda": "ansiedade",
+    "formato": "roleta",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Sorteia um pensamento e transforma o catastrófico em realista.",
+    "instrucoes": [
+      "A criança gira a roleta e lê o pensamento que caiu.",
+      "Juntos, trocam por um pensamento mais realista e justo.",
+      "Ela repete a versão nova em voz alta."
+    ],
+    "observar": [
+      "Pensamentos catastróficos que aparecem no dia a dia dela.",
+      "Facilidade de gerar a versão realista."
+    ],
+    "fechamento": [
+      "Qual pensamento ficou bem diferente depois de você ajustar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-012/JG-012_Roleta-dos-Pensamentos.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-013",
+    "nome": "Dominó Respira-Reage",
+    "demanda": "ansiedade",
+    "formato": "domino",
+    "objetivos": [
+      "autorregulacao",
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa gatilho + resposta de enfrentamento saudável.",
+    "instrucoes": [
+      "Distribua as peças; cada uma tem um gatilho de um lado e uma resposta do outro.",
+      "A criança encaixa um gatilho numa resposta que faça sentido.",
+      "Conversem se há outras respostas boas para o mesmo gatilho."
+    ],
+    "observar": [
+      "Gatilhos mais frequentes na vida dela.",
+      "Se o repertório de respostas é variado."
+    ],
+    "fechamento": [
+      "Qual resposta você quer treinar pra usar de verdade?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-013/JG-013_Domino-Respira-Reage.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-014",
+    "nome": "Missão Calma",
+    "demanda": "tdah",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "impulsos",
+      "atencao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada",
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 30,
+    "descricao": "Missões que exigem esperar a vez e seguir os passos até o fim.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-015",
+    "nome": "Estátua Maluca",
+    "demanda": "tdah",
+    "formato": "dados",
+    "objetivos": [
+      "impulsos"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Para e move sob comando — treino de controle inibitório.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-016",
+    "nome": "Trilha das Etapas",
+    "demanda": "tdah",
+    "formato": "trilha",
+    "objetivos": [
+      "impulsos",
+      "atencao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Só avança quem completa a etapa sem pular passo.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-017",
+    "nome": "Pense Antes",
+    "demanda": "tdah",
+    "formato": "cartas",
+    "objetivos": [
+      "impulsos"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Situação impulsiva → escolher a resposta pensada (pare e pense).",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-018",
+    "nome": "Memória Turbo",
+    "demanda": "tdah",
+    "formato": "memoria",
+    "objetivos": [
+      "atencao",
+      "impulsos"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Memória com a regra de respirar antes de virar a carta.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-019",
+    "nome": "Roleta do Foco",
+    "demanda": "tdah",
+    "formato": "roleta",
+    "objetivos": [
+      "atencao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Sorteia um mini-desafio de atenção sustentada.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-020",
+    "nome": "Bingo da Organização",
+    "demanda": "tdah",
+    "formato": "bingo",
+    "objetivos": [
+      "atencao",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Marca os passos de organizar mochila, tarefa e rotina.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-021",
+    "nome": "Dado da Espera",
+    "demanda": "tdah",
+    "formato": "dados",
+    "objetivos": [
+      "impulsos",
+      "frustracao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Treina tolerância à espera com recompensa graduada.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-022",
+    "nome": "Circuito Para-e-Segue",
+    "demanda": "tdah",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "impulsos",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "agitada",
+      "desregulada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Alterna ação e pausa — autorregulação motora.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-023",
+    "nome": "Dominó do Passo Certo",
+    "demanda": "tdah",
+    "formato": "domino",
+    "objetivos": [
+      "impulsos"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa ação impulsiva + alternativa organizada.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-024",
+    "nome": "Trilha do Errar Tá Ok",
+    "demanda": "tdah",
+    "formato": "trilha",
+    "objetivos": [
+      "frustracao",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Erra e volta uma casa sem drama — tolerância à frustração.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-025",
+    "nome": "Caça ao Detalhe",
+    "demanda": "tdah",
+    "formato": "memoria",
+    "objetivos": [
+      "atencao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Acha pares e diferenças — atenção seletiva.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-026",
+    "nome": "Roleta da Vez",
+    "demanda": "tdah",
+    "formato": "roleta",
+    "objetivos": [
+      "impulsos",
+      "cooperacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Jogo de turnos que reforça esperar a vez.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-027",
+    "nome": "Vulcão da Raiva",
+    "demanda": "raiva",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "autorregulacao",
+      "impulsos"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada",
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Gerencia a pressão do vulcão antes da erupção.",
+    "instrucoes": [
+      "A criança anda pelo tabuleiro; cada casa traz uma situação que dá raiva.",
+      "A cada situação o vulcão enche um pouco — nas casas de estratégia ela escolhe como baixar a pressão.",
+      "O objetivo é chegar ao fim sem o vulcão explodir."
+    ],
+    "observar": [
+      "Situações que enchem o vulcão mais rápido.",
+      "Estratégias que usa espontaneamente."
+    ],
+    "fechamento": [
+      "O que faz seu vulcão baixar mais rápido?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-027/JG-027_Vulcao-da-Raiva.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-028",
+    "nome": "Termômetro da Raiva",
+    "demanda": "raiva",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "identificacao",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Mede a intensidade e escolhe a estratégia por nível.",
+    "instrucoes": [
+      "A criança avança e, em cada situação, marca no termômetro o nível da raiva.",
+      "Quanto mais alto o nível, mais forte a estratégia que ela escolhe.",
+      "Conversem sobre o que faz o termômetro subir e descer."
+    ],
+    "observar": [
+      "Se percebe níveis diferentes ou vê tudo como fervendo.",
+      "Situações que disparam os níveis altos."
+    ],
+    "fechamento": [
+      "Qual situação hoje mais subiu seu termômetro?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-028/JG-028_Termometro-da-Raiva.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-029",
+    "nome": "Dado Conta até 10",
+    "demanda": "raiva",
+    "formato": "dados",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Sorteia a técnica de acalmar: contar, respirar, sair.",
+    "instrucoes": [
+      "A criança joga o dado e faz a técnica de acalmar que caiu.",
+      "Repete a favorita duas vezes.",
+      "Nomeia como o corpo ficou depois."
+    ],
+    "observar": [
+      "Técnica que mais reduz a ativação.",
+      "Se consegue usar antes de explodir."
+    ],
+    "fechamento": [
+      "Qual técnica você levaria pra usar em casa?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-029/JG-029_Dado-Conta-ate-10.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-030",
+    "nome": "Detetive do Gatilho",
+    "demanda": "raiva",
+    "formato": "cartas",
+    "objetivos": [
+      "identificacao",
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Identifica o que acende a raiva e o aviso do corpo.",
+    "instrucoes": [
+      "A criança vira uma carta e investiga: o que acendeu a raiva ali?",
+      "Identifica também o aviso que o corpo dá.",
+      "Conversem sobre como perceber esse aviso mais cedo."
+    ],
+    "observar": [
+      "Gatilhos mais frequentes na vida dela.",
+      "Consciência dos sinais do corpo."
+    ],
+    "fechamento": [
+      "Qual é o seu gatilho campeão?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-030/JG-030_Detetive-do-Gatilho.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-031",
+    "nome": "Trilha do Vulcão",
+    "demanda": "raiva",
+    "formato": "trilha",
+    "objetivos": [
+      "autorregulacao",
+      "frustracao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Enfrenta situações irritantes e escolhe respostas.",
+    "instrucoes": [
+      "Avance pela trilha; cada casa é uma situação irritante.",
+      "A criança escolhe uma resposta saudável para seguir.",
+      "Chega ao topo quem mantém a calma pelo caminho."
+    ],
+    "observar": [
+      "Situações onde ela escala rápido.",
+      "Respostas que já fazem parte do repertório."
+    ],
+    "fechamento": [
+      "Qual resposta funcionou melhor pra você?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-031/JG-031_Trilha-do-Vulcao.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-032",
+    "nome": "Bingo do Acalma",
+    "demanda": "raiva",
+    "formato": "bingo",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca as estratégias de acalmar que já usa.",
+    "instrucoes": [
+      "Cada um pega uma cartela de estratégias.",
+      "Sorteie as fichas: quem tem a estratégia marca e conta quando usou.",
+      "Ganha quem completar uma linha."
+    ],
+    "observar": [
+      "Estratégias que já usa.",
+      "Quais nunca tentou."
+    ],
+    "fechamento": [
+      "Qual estratégia nova você quer testar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-032/JG-032_Bingo-do-Acalma.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-033",
+    "nome": "Dominó Gatilho-Resposta",
+    "demanda": "raiva",
+    "formato": "domino",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa gatilho + resposta saudável.",
+    "instrucoes": [
+      "Distribua as peças; cada uma tem um gatilho de um lado e uma resposta do outro.",
+      "A criança encaixa um gatilho numa resposta que faça sentido.",
+      "Conversem se há outras respostas boas pro mesmo gatilho."
+    ],
+    "observar": [
+      "Variedade de respostas que consegue gerar.",
+      "Gatilhos ainda sem resposta."
+    ],
+    "fechamento": [
+      "Qual resposta você quer treinar de verdade?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-033/JG-033_Domino-Gatilho-Resposta.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-034",
+    "nome": "Memória do Sinal",
+    "demanda": "raiva",
+    "formato": "memoria",
+    "objetivos": [
+      "identificacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Pares: sinal corporal da raiva + o que fazer.",
+    "instrucoes": [
+      "Espalhe as cartas viradas para baixo.",
+      "A criança forma pares de sinais do corpo que a raiva causa.",
+      "Ao achar o par, mostra onde sente esse sinal."
+    ],
+    "observar": [
+      "Se reconhece os próprios sinais de raiva.",
+      "Qual sinal aparece primeiro nela."
+    ],
+    "fechamento": [
+      "Qual sinal seu corpo dá primeiro quando fica bravo?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-034/JG-034_Memoria-do-Sinal.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-035",
+    "nome": "Roleta do Desabafo",
+    "demanda": "raiva",
+    "formato": "roleta",
+    "objetivos": [
+      "expressao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Modos seguros de expressar a raiva: falar, desenhar, mexer o corpo.",
+    "instrucoes": [
+      "A criança gira e vê a forma de desabafar sorteada.",
+      "Experimentam juntos aquela forma na sessão.",
+      "Conversem se é algo que dá pra fazer em casa."
+    ],
+    "observar": [
+      "Formas de expressar raiva que combinam com ela.",
+      "Se prefere movimento, fala ou arte."
+    ],
+    "fechamento": [
+      "Qual jeito de desabafar você mais gostou?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-035/JG-035_Roleta-do-Desabafo.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-036",
+    "nome": "Caixa da Calma",
+    "demanda": "raiva",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconhecimento",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Monta um kit pessoal para os momentos de raiva.",
+    "instrucoes": [
+      "Espalhe as cartas de estratégias de acalmar.",
+      "A criança escolhe as que funcionam pra ela e monta a própria caixa.",
+      "Ela leva a caixa pra usar quando a raiva aparecer."
+    ],
+    "observar": [
+      "Quais estratégias sente como dela.",
+      "Se imagina usando no momento da raiva."
+    ],
+    "fechamento": [
+      "Qual ferramenta vai ser a primeira que você usa?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-036/JG-036_Caixa-da-Calma.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-037",
+    "nome": "Semáforo da Explosão",
+    "demanda": "raiva",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "identificacao",
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Reconhece verde/amarelo/vermelho da raiva e age a tempo.",
+    "instrucoes": [
+      "A criança anda pelo tabuleiro e classifica cada situação em verde, amarelo ou vermelho.",
+      "No amarelo, escolhe uma estratégia antes de virar vermelho.",
+      "No vermelho, treina parar antes de explodir."
+    ],
+    "observar": [
+      "Se percebe a passagem do verde pro amarelo.",
+      "O que a leva direto pro vermelho."
+    ],
+    "fechamento": [
+      "Como você sabe que está indo pro vermelho?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-037/JG-037_Semaforo-da-Explosao.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-038",
+    "nome": "Frustra-Não-Trava",
+    "demanda": "raiva",
+    "formato": "trilha",
+    "objetivos": [
+      "frustracao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Lida com perder e errar no jogo — tolerância à frustração.",
+    "instrucoes": [
+      "Avance pela trilha; cada casa traz uma situação de perder ou errar.",
+      "A criança escolhe como lidar sem travar.",
+      "As casas de reforço lembram que errar faz parte."
+    ],
+    "observar": [
+      "Reação diante do erro e da derrota.",
+      "Recursos que ela aciona para seguir."
+    ],
+    "fechamento": [
+      "O que te ajuda a continuar depois de errar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-038/JG-038_Frustra-Nao-Trava.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-039",
+    "nome": "Dado do Eu Sinto",
+    "demanda": "raiva",
+    "formato": "dados",
+    "objetivos": [
+      "expressao",
+      "comunicacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Transforma 'você me irritou' em 'eu me sinto…' — fala assertiva.",
+    "instrucoes": [
+      "A criança joga o dado e completa a frase que caiu.",
+      "Treina dizer o que sente sem brigar.",
+      "O terapeuta ajuda a achar as palavras."
+    ],
+    "observar": [
+      "Se consegue trocar a briga pela fala.",
+      "Necessidades que aparecem por trás da raiva."
+    ],
+    "fechamento": [
+      "Qual frase foi mais fácil de completar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-039/JG-039_Dado-do-Eu-Sinto.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-040",
+    "nome": "Bingo das Qualidades",
+    "demanda": "autoestima",
+    "formato": "bingo",
+    "objetivos": [
+      "autoconhecimento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Marca os traços positivos que reconhece em si.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-041",
+    "nome": "Espelho das Forças",
+    "demanda": "autoestima",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Cada carta pede um exemplo real de algo que faz bem.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-042",
+    "nome": "Trilha das Conquistas",
+    "demanda": "autoestima",
+    "formato": "trilha",
+    "objetivos": [
+      "autoconhecimento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Recorda vitórias pequenas e grandes ao longo do caminho.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-043",
+    "nome": "Super-Herói de Mim",
+    "demanda": "autoestima",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 25,
+    "descricao": "Cria um herói com as próprias forças e um poder a treinar.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-044",
+    "nome": "Dado do Eu Consigo",
+    "demanda": "autoestima",
+    "formato": "dados",
+    "objetivos": [
+      "autoconfianca"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida",
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Sorteia um desafio possível e comemora a tentativa.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-045",
+    "nome": "Memória dos Talentos",
+    "demanda": "autoestima",
+    "formato": "memoria",
+    "objetivos": [
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Pares de talentos/atividades para reconhecer os próprios.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-046",
+    "nome": "Roleta do Elogio Justo",
+    "demanda": "autoestima",
+    "formato": "roleta",
+    "objetivos": [
+      "autoconfianca",
+      "comunicacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Dar e receber elogios verdadeiros.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-047",
+    "nome": "Cartas do Erro Amigo",
+    "demanda": "autoestima",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconhecimento",
+      "frustracao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Ressignifica o erro como aprendizado — solta a autocrítica.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-048",
+    "nome": "Tabuleiro Eu Sou",
+    "demanda": "autoestima",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "autoconhecimento",
+      "expressao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Completa frases 'eu sou…', 'eu gosto…', 'eu consigo…'.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-049",
+    "nome": "Bingo do Eu Me Orgulho",
+    "demanda": "autoestima",
+    "formato": "bingo",
+    "objetivos": [
+      "autoconfianca"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca conquistas do dia ou da semana.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-050",
+    "nome": "Trilha do Espelho",
+    "demanda": "autoestima",
+    "formato": "trilha",
+    "objetivos": [
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Desafios de autoimagem positiva.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-051",
+    "nome": "Dominó Força-Situação",
+    "demanda": "autoestima",
+    "formato": "domino",
+    "objetivos": [
+      "autoconhecimento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa uma força pessoal + onde usá-la.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-052",
+    "nome": "Baú das Emoções",
+    "demanda": "regulacao",
+    "formato": "cartas",
+    "objetivos": [
+      "identificacao",
+      "expressao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal",
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Nomeia como se sentiria em situações do dia a dia.",
+    "instrucoes": [
+      "Embaralhe as cartas de situação e deixe o baú no centro.",
+      "A cada rodada a criança tira uma carta e conta o que sentiria.",
+      "Anotem juntos as emoções que apareceram."
+    ],
+    "observar": [
+      "O repertório emocional que já domina.",
+      "Emoções evitadas ou negadas."
+    ],
+    "fechamento": [
+      "Qual emoção foi mais fácil de reconhecer hoje?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-052/JG-052_Bau-das-Emocoes.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-053",
+    "nome": "Detetive dos Sentimentos",
+    "demanda": "regulacao",
+    "formato": "memoria",
+    "objetivos": [
+      "identificacao",
+      "atencao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Pares de expressões faciais + investiga a emoção.",
+    "instrucoes": [
+      "Espalhe as cartas viradas para baixo.",
+      "A criança vira duas procurando o par de emoções iguais.",
+      "Ao formar o par, nomeia a emoção e conta quando já sentiu."
+    ],
+    "observar": [
+      "Emoções que reconhece com facilidade.",
+      "Emoções que confunde ou evita."
+    ],
+    "fechamento": [
+      "Qual emoção foi mais fácil de achar hoje?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-053/JG-053_Detetive-dos-Sentimentos.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-054",
+    "nome": "Roleta das Emoções",
+    "demanda": "regulacao",
+    "formato": "roleta",
+    "objetivos": [
+      "identificacao",
+      "expressao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Sorteia uma emoção e conta uma vez que a sentiu.",
+    "instrucoes": [
+      "A criança gira a roleta e vê a emoção sorteada.",
+      "Conta uma vez que sentiu essa emoção.",
+      "O terapeuta compartilha junto para modelar."
+    ],
+    "observar": [
+      "Repertório emocional espontâneo.",
+      "Emoções que geram mais ou menos fala."
+    ],
+    "fechamento": [
+      "Qual emoção foi mais fácil de contar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-054/JG-054_Roleta-das-Emocoes.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-055",
+    "nome": "Termômetro do Sentir",
+    "demanda": "regulacao",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "identificacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Gradua a intensidade das emoções: pouco, médio, muito.",
+    "instrucoes": [
+      "A criança anda pelo tabuleiro e, em cada casa, lê a situação.",
+      "Marca no termômetro o quanto sentiria: pouco, médio ou muito.",
+      "Conversem sobre o que muda a intensidade."
+    ],
+    "observar": [
+      "Se diferencia intensidades ou vê tudo no extremo.",
+      "Situações que puxam intensidade alta."
+    ],
+    "fechamento": [
+      "Qual situação hoje foi mais 'muito'?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-055/JG-055_Termometro-do-Sentir.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-056",
+    "nome": "Cubo dos Pensamentos",
+    "demanda": "regulacao",
+    "formato": "dados",
+    "objetivos": [
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Faces = tipos de pensamento (realista, exagerado, positivo).",
+    "instrucoes": [
+      "A criança joga o cubo e lê o tipo de pensamento.",
+      "Dá um exemplo de um pensamento assim que já teve.",
+      "Conversem se ele ajuda ou atrapalha."
+    ],
+    "observar": [
+      "Facilidade de identificar tipos de pensamento.",
+      "Se percebe que dá pra escolher o pensamento."
+    ],
+    "fechamento": [
+      "Qual tipo de pensamento você quer ter mais vezes?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-056/JG-056_Cubo-dos-Pensamentos.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-057",
+    "nome": "Onde Eu Sinto",
+    "demanda": "regulacao",
+    "formato": "cartas",
+    "objetivos": [
+      "identificacao",
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Mapeia a emoção no corpo.",
+    "instrucoes": [
+      "Mostre o corpo e sorteie uma carta de emoção.",
+      "A criança aponta onde sente essa emoção no corpo.",
+      "Conversem sobre o que o corpo faz nessa hora."
+    ],
+    "observar": [
+      "Consciência corporal das emoções.",
+      "Emoções que não localiza."
+    ],
+    "fechamento": [
+      "Qual emoção seu corpo mostra mais forte?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-057/JG-057_Onde-Eu-Sinto.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-058",
+    "nome": "Bingo do Sentir",
+    "demanda": "regulacao",
+    "formato": "bingo",
+    "objetivos": [
+      "identificacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca as emoções que apareceram na semana.",
+    "instrucoes": [
+      "Cada um pega uma cartela de emoções.",
+      "Sorteie as fichas: quem sentiu aquela emoção na semana marca e conta quando.",
+      "Ganha quem completar uma linha."
+    ],
+    "observar": [
+      "Variedade emocional da semana.",
+      "Emoções que ela nunca marca."
+    ],
+    "fechamento": [
+      "Qual emoção apareceu mais essa semana?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-058/JG-058_Bingo-do-Sentir.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-059",
+    "nome": "Trilha do Humor",
+    "demanda": "regulacao",
+    "formato": "trilha",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Passa por situações e escolhe como regular a emoção.",
+    "instrucoes": [
+      "Avance pela trilha; cada casa traz uma situação.",
+      "A criança escolhe como lidaria com a emoção que surge.",
+      "As casas de estratégia dão dicas de regulação."
+    ],
+    "observar": [
+      "Estratégias que já usa.",
+      "Situações onde trava."
+    ],
+    "fechamento": [
+      "Qual situação foi mais difícil de lidar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-059/JG-059_Trilha-do-Humor.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-060",
+    "nome": "Dominó Emoção-Situação",
+    "demanda": "regulacao",
+    "formato": "domino",
+    "objetivos": [
+      "identificacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Encaixa a emoção + a situação que a provoca.",
+    "instrucoes": [
+      "Distribua as peças; cada uma tem uma emoção numa ponta e uma situação na outra.",
+      "A criança encaixa a emoção que combina com a situação da peça ao lado.",
+      "Sigam formando a fila de peças."
+    ],
+    "observar": [
+      "Se conecta emoção à situação que a provoca.",
+      "Associações inesperadas que faz."
+    ],
+    "fechamento": [
+      "Teve uma emoção que combina com várias situações?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-060/JG-060_Domino-Emocao-Situacao.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-061",
+    "nome": "Cartas do Fim",
+    "demanda": "regulacao",
+    "formato": "cartas",
+    "objetivos": [
+      "autoconhecimento",
+      "expressao"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "cooperativa",
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 10,
+    "descricao": "Integra o que sentiu e aprendeu na sessão.",
+    "instrucoes": [
+      "Ao fim da sessão, puxe 2 ou 3 cartas de fechamento.",
+      "A criança responde livremente cada uma.",
+      "Encerrem com uma frase de despedida."
+    ],
+    "observar": [
+      "O que destaca como marcante.",
+      "Como organiza a experiência da sessão."
+    ],
+    "fechamento": [
+      "Se hoje fosse uma cor, qual seria?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-061/JG-061_Cartas-do-Fim.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-062",
+    "nome": "Memória Emoção-Rosto",
+    "demanda": "regulacao",
+    "formato": "memoria",
+    "objetivos": [
+      "identificacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 8,
+    "duracao": 15,
+    "descricao": "Associa o nome da emoção à expressão.",
+    "instrucoes": [
+      "Espalhe as cartas viradas para baixo.",
+      "A criança procura o par: o nome da emoção e o rosto que combina.",
+      "Ao acertar, faz a mesma expressão no rosto."
+    ],
+    "observar": [
+      "Associação entre nome e expressão.",
+      "Emoções que confunde."
+    ],
+    "fechamento": [
+      "Qual rosto foi mais fácil de reconhecer?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-062/JG-062_Memoria-Emocao-Rosto.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-063",
+    "nome": "Roleta do Como Lido",
+    "demanda": "regulacao",
+    "formato": "roleta",
+    "objetivos": [
+      "autorregulacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "desregulada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Sorteia uma emoção difícil e treina uma forma saudável de lidar.",
+    "instrucoes": [
+      "A criança gira e vê a emoção difícil sorteada.",
+      "Diz uma forma saudável de lidar com ela.",
+      "Treinem juntos a estratégia."
+    ],
+    "observar": [
+      "Repertório de regulação por emoção.",
+      "Emoções ainda sem estratégia."
+    ],
+    "fechamento": [
+      "Qual emoção você já sabe lidar melhor?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-063/JG-063_Roleta-do-Como-Lido.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-064",
+    "nome": "Máscaras do Sentir",
+    "demanda": "regulacao",
+    "formato": "cartas",
+    "objetivos": [
+      "expressao",
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Explora a emoção escondida x a demonstrada.",
+    "instrucoes": [
+      "Mostre as cartas de máscaras (o rosto que a gente mostra).",
+      "A criança escolhe uma e conta que emoção pode estar escondida atrás.",
+      "Conversem sobre quando a gente esconde o que sente."
+    ],
+    "observar": [
+      "Percepção de que aparência não é igual a sentimento.",
+      "Situações em que ela mascara emoções."
+    ],
+    "fechamento": [
+      "Teve um dia que você mostrou uma máscara?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-064/JG-064_Mascaras-do-Sentir.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-065",
+    "nome": "Dominó Social",
+    "demanda": "habilidades",
+    "formato": "domino",
+    "objetivos": [
+      "cooperacao",
+      "comunicacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada",
+      "resistente"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa situação social + resposta adequada.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-066",
+    "nome": "Trilha da Amizade",
+    "demanda": "habilidades",
+    "formato": "trilha",
+    "objetivos": [
+      "comunicacao",
+      "cooperacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Situações de fazer e manter amigos.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-067",
+    "nome": "Cartas do E Se Fosse Comigo",
+    "demanda": "habilidades",
+    "formato": "cartas",
+    "objetivos": [
+      "comunicacao",
+      "cooperacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Treino de empatia a partir de cenários.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-068",
+    "nome": "Roleta do Como Eu Diria",
+    "demanda": "habilidades",
+    "formato": "roleta",
+    "objetivos": [
+      "comunicacao",
+      "expressao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Treina pedir, recusar e discordar com respeito.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-069",
+    "nome": "Bingo das Atitudes",
+    "demanda": "habilidades",
+    "formato": "bingo",
+    "objetivos": [
+      "cooperacao"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca atitudes sociais positivas que já pratica.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-070",
+    "nome": "Dado da Conversa",
+    "demanda": "habilidades",
+    "formato": "dados",
+    "objetivos": [
+      "comunicacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal",
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Puxa assunto e mantém o diálogo por turnos.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-071",
+    "nome": "Memória do Gesto",
+    "demanda": "habilidades",
+    "formato": "memoria",
+    "objetivos": [
+      "comunicacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Pares: expressão/gesto + o que comunica.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-072",
+    "nome": "Tabuleiro da Cooperação",
+    "demanda": "habilidades",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "cooperacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Só se vence em equipe — jogo cooperativo.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-073",
+    "nome": "Resolve Junto",
+    "demanda": "habilidades",
+    "formato": "cartas",
+    "objetivos": [
+      "cooperacao",
+      "comunicacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Conflito entre colegas → soluções ganha-ganha.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-074",
+    "nome": "Trilha do Respeito",
+    "demanda": "habilidades",
+    "formato": "trilha",
+    "objetivos": [
+      "cooperacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Regras de convívio e limites.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-075",
+    "nome": "Roleta do Elogio",
+    "demanda": "habilidades",
+    "formato": "roleta",
+    "objetivos": [
+      "comunicacao",
+      "cooperacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Praticar elogiar e agradecer.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-076",
+    "nome": "Dominó da Vez de Falar",
+    "demanda": "habilidades",
+    "formato": "domino",
+    "objetivos": [
+      "comunicacao"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "agitada"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa ouvir + falar — escuta ativa.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-077",
+    "nome": "Trilha da Coragem",
+    "demanda": "medos",
+    "formato": "trilha",
+    "objetivos": [
+      "enfrentamento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa",
+      "retraida"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Enfrenta pequenos medos em desafios graduais e ganha medalhas.",
+    "instrucoes": [
+      "Escolham juntos um medo pra trabalhar hoje.",
+      "A criança avança na trilha encarando um pequeno desafio por casa.",
+      "A cada desafio vencido, ela ganha uma medalha de coragem."
+    ],
+    "observar": [
+      "Em qual desafio a coragem trava.",
+      "Recursos que ela usa pra avançar."
+    ],
+    "fechamento": [
+      "Qual medalha você mais gostou de conquistar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-077/JG-077_Trilha-da-Coragem.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-078",
+    "nome": "Monstro do Armário",
+    "demanda": "medos",
+    "formato": "cartas",
+    "objetivos": [
+      "expressao",
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Nomeia e desmonta o medo com humor e evidência.",
+    "instrucoes": [
+      "A criança escolhe e nomeia o Monstro do Medo.",
+      "Vira as cartas do monstro grande e responde deixando ele pequeno e bobo.",
+      "Podem desenhar o próprio monstro encolhendo."
+    ],
+    "observar": [
+      "Como reage ao dar forma e humor ao medo.",
+      "Se consegue diminuir o medo com a brincadeira."
+    ],
+    "fechamento": [
+      "O que faz seu monstro do medo ficar pequenininho?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-078/JG-078_Monstro-do-Armario.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-079",
+    "nome": "Escada do Medo",
+    "demanda": "medos",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 25,
+    "descricao": "Hierarquia de exposição: sobe um degrau por vez.",
+    "instrucoes": [
+      "Escolham um medo e montem a escada, do passo mais fácil ao mais difícil.",
+      "A criança sobe um degrau por sessão, sem pular etapa.",
+      "Comemorem cada degrau antes de ir ao próximo."
+    ],
+    "observar": [
+      "Em qual degrau o medo aumenta.",
+      "Se consegue permanecer no degrau até acalmar."
+    ],
+    "fechamento": [
+      "Qual degrau foi mais difícil de subir?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-079/JG-079_Escada-do-Medo.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-080",
+    "nome": "Dado da Coragem",
+    "demanda": "medos",
+    "formato": "dados",
+    "objetivos": [
+      "enfrentamento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 10,
+    "descricao": "Sorteia um mini-desafio corajoso e possível.",
+    "instrucoes": [
+      "A criança joga o dado e cumpre o mini-desafio de coragem.",
+      "Cada desafio é possível e comemorado na hora.",
+      "Some os desafios vencidos no fim."
+    ],
+    "observar": [
+      "Nível de evitação diante dos desafios.",
+      "O que a ajuda a topar o desafio."
+    ],
+    "fechamento": [
+      "Qual desafio te deixou mais orgulhoso?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-080/JG-080_Dado-da-Coragem.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-081",
+    "nome": "Bingo do Enfrentei",
+    "demanda": "medos",
+    "formato": "bingo",
+    "objetivos": [
+      "autoconfianca"
+    ],
+    "momentos": [
+      "fechamento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca os medos que já encarou.",
+    "instrucoes": [
+      "Cada um pega uma cartela de medos comuns.",
+      "Sorteie as fichas: quem já enfrentou aquele medo marca e conta como.",
+      "Ganha quem completar uma linha de medos enfrentados."
+    ],
+    "observar": [
+      "Medos que ela já superou.",
+      "Medos ainda muito ativos."
+    ],
+    "fechamento": [
+      "Qual medo você percebeu que já venceu?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-081/JG-081_Bingo-do-Enfrentei.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-082",
+    "nome": "Memória do Corajoso",
+    "demanda": "medos",
+    "formato": "memoria",
+    "objetivos": [
+      "enfrentamento"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Pares: medo comum + estratégia de enfrentar.",
+    "instrucoes": [
+      "Espalhe as cartas viradas para baixo.",
+      "A criança forma pares de crianças enfrentando medos com coragem.",
+      "Ao achar o par, conta como enfrentaria aquele medo."
+    ],
+    "observar": [
+      "Medos com que mais se identifica.",
+      "Estratégias de enfrentamento que já imagina."
+    ],
+    "fechamento": [
+      "Qual carta se parece mais com você?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-082/JG-082_Memoria-do-Corajoso.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-083",
+    "nome": "Roleta do Superpoder",
+    "demanda": "medos",
+    "formato": "roleta",
+    "objetivos": [
+      "enfrentamento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Ativa um poder de coragem para a situação temida.",
+    "instrucoes": [
+      "A criança gira e ativa o superpoder de coragem sorteado.",
+      "Usa esse poder de faz de conta diante de uma situação que dá medo.",
+      "Repetem o poder favorito duas vezes."
+    ],
+    "observar": [
+      "Qual poder mais fortalece essa criança.",
+      "Se o faz de conta reduz o medo."
+    ],
+    "fechamento": [
+      "Qual superpoder você levaria pra vida real?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-083/JG-083_Roleta-do-Superpoder.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-084",
+    "nome": "Cartas do Medo Real ou Exagero",
+    "demanda": "medos",
+    "formato": "cartas",
+    "objetivos": [
+      "identificacao",
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Testa se o medo é perigo real ou exagero.",
+    "instrucoes": [
+      "A criança vira uma carta com um medo.",
+      "Juntos decidem: é perigo real ou a cabeça exagerando?",
+      "Se for exagero, pensam no que costuma acontecer de verdade."
+    ],
+    "observar": [
+      "Medos que ela superestima.",
+      "Se consegue gerar a versão realista."
+    ],
+    "fechamento": [
+      "Qual medo hoje era mais exagero do que perigo?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-084/JG-084_Cartas-do-Medo-Real-ou-Exagero.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-085",
+    "nome": "Trilha do Escuro",
+    "demanda": "medos",
+    "formato": "trilha",
+    "objetivos": [
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Medo do escuro e de dormir sozinho, passo a passo.",
+    "instrucoes": [
+      "Percorram a trilha da hora de dormir, passo a passo.",
+      "Em cada casa, a criança encara um pedacinho do medo do escuro.",
+      "Marquem o que ajuda a se sentir seguro na cama."
+    ],
+    "observar": [
+      "O que mais assusta na hora de dormir.",
+      "Recursos de segurança que já usa."
+    ],
+    "fechamento": [
+      "O que te deixa mais tranquilo pra dormir?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-085/JG-085_Trilha-do-Escuro.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-086",
+    "nome": "Dominó Medo-Coragem",
+    "demanda": "medos",
+    "formato": "domino",
+    "objetivos": [
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Encaixa medo + ato de coragem correspondente.",
+    "instrucoes": [
+      "Distribua as peças; cada uma tem um medo de um lado e um ato de coragem do outro.",
+      "A criança encaixa o medo no ato de coragem que combina.",
+      "Conversem sobre outras formas de enfrentar o mesmo medo."
+    ],
+    "observar": [
+      "Se associa cada medo a uma ação possível.",
+      "Medos ainda sem estratégia."
+    ],
+    "fechamento": [
+      "Qual ato de coragem você quer treinar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-086/JG-086_Domino-Medo-Coragem.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-087",
+    "nome": "Herói contra o Medo",
+    "demanda": "medos",
+    "formato": "cartas",
+    "objetivos": [
+      "enfrentamento",
+      "autoconfianca"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 25,
+    "descricao": "Cria um personagem que enfrenta o próprio medo.",
+    "instrucoes": [
+      "A criança cria um herói que enfrenta o próprio medo dela.",
+      "Monta o herói e dá a ele um poder de coragem.",
+      "O herói encara a situação temida numa historinha."
+    ],
+    "observar": [
+      "Como projeta o medo e a coragem no personagem.",
+      "Recursos que atribui ao herói."
+    ],
+    "fechamento": [
+      "Qual poder do seu herói você também tem?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-087/JG-087_Heroi-contra-o-Medo.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-088",
+    "nome": "Roleta do E Se Der Certo",
+    "demanda": "medos",
+    "formato": "roleta",
+    "objetivos": [
+      "identificacao",
+      "enfrentamento"
+    ],
+    "momentos": [
+      "desenvolvimento"
+    ],
+    "perfis": [
+      "ansiosa"
+    ],
+    "idadeMin": 8,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Troca a previsão catastrófica por uma possível positiva.",
+    "instrucoes": [
+      "A criança gira e lê a previsão assustadora sorteada.",
+      "Juntos trocam por uma versão possível e mais tranquila.",
+      "Ela repete a versão nova em voz alta."
+    ],
+    "observar": [
+      "Tendência a prever o pior.",
+      "Facilidade de gerar a versão positiva."
+    ],
+    "fechamento": [
+      "Qual previsão ficou bem diferente depois de você ajustar?"
+    ],
+    "imagem": "",
+    "pdf": "/jogos/JG-088/JG-088_Roleta-do-E-Se-Der-Certo.pdf",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-089",
+    "nome": "Dado das Perguntas",
+    "demanda": "vinculo",
+    "formato": "dados",
+    "objetivos": [
+      "vinculo_obj",
+      "comunicacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente",
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 10,
+    "descricao": "Perguntas leves para abrir a sessão e destravar a fala.",
+    "instrucoes": [
+      "Role o dado e responda a pergunta da face que caiu.",
+      "O terapeuta responde junto para modelar.",
+      "Sem respostas certas ou erradas — o objetivo é conversar."
+    ],
+    "observar": [
+      "A abertura da criança ao contato.",
+      "Os temas que ela traz espontaneamente."
+    ],
+    "fechamento": [
+      "Teve alguma pergunta que você gostou de responder?"
+    ],
+    "imagem": "",
+    "pdf": "",
+    "status": "pronto"
+  },
+  {
+    "id": "JG-090",
+    "nome": "Cartas Me Conta",
+    "demanda": "vinculo",
+    "formato": "cartas",
+    "objetivos": [
+      "vinculo_obj"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Gostos, rotina e pessoas importantes.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-091",
+    "nome": "Trilha do Conhecer",
+    "demanda": "vinculo",
+    "formato": "trilha",
+    "objetivos": [
+      "vinculo_obj",
+      "comunicacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Avança respondendo curiosidades sobre si.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-092",
+    "nome": "Roleta Quebra-Gelo",
+    "demanda": "vinculo",
+    "formato": "roleta",
+    "objetivos": [
+      "vinculo_obj"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 10,
+    "descricao": "Desafios e perguntas divertidas para soltar a criança.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-093",
+    "nome": "Memória de Mim",
+    "demanda": "vinculo",
+    "formato": "memoria",
+    "objetivos": [
+      "vinculo_obj"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 8,
+    "duracao": 15,
+    "descricao": "Pares de coisas favoritas: comida, cor, herói.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-094",
+    "nome": "Bingo Quem Sou Eu",
+    "demanda": "vinculo",
+    "formato": "bingo",
+    "objetivos": [
+      "vinculo_obj",
+      "autoconhecimento"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Marca características e gostos que combinam com você.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-095",
+    "nome": "Dado Verdade Leve",
+    "demanda": "vinculo",
+    "formato": "dados",
+    "objetivos": [
+      "vinculo_obj",
+      "expressao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente"
+    ],
+    "idadeMin": 7,
+    "idadeMax": 10,
+    "duracao": 10,
+    "descricao": "Perguntas seguras de autoexposição gradual.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-096",
+    "nome": "Cartas da Confiança",
+    "demanda": "vinculo",
+    "formato": "cartas",
+    "objetivos": [
+      "vinculo_obj"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente",
+      "ansiosa"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 15,
+    "descricao": "Constrói segurança e vínculo com o terapeuta.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-097",
+    "nome": "Tabuleiro Nós Dois",
+    "demanda": "vinculo",
+    "formato": "tabuleiro",
+    "objetivos": [
+      "vinculo_obj",
+      "cooperacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 20,
+    "descricao": "Jogo cooperativo terapeuta-criança.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-098",
+    "nome": "Roleta do Desenho",
+    "demanda": "vinculo",
+    "formato": "roleta",
+    "objetivos": [
+      "vinculo_obj",
+      "expressao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "pouco_verbal"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Desenha e conta sobre si — ótimo para pouco verbais.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-099",
+    "nome": "Dominó Eu Também",
+    "demanda": "vinculo",
+    "formato": "domino",
+    "objetivos": [
+      "vinculo_obj"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "retraida"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 9,
+    "duracao": 15,
+    "descricao": "Encaixa gostos em comum — identificação com o terapeuta.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  },
+  {
+    "id": "JG-100",
+    "nome": "Trilha do Mundo Dele",
+    "demanda": "vinculo",
+    "formato": "trilha",
+    "objetivos": [
+      "vinculo_obj",
+      "comunicacao"
+    ],
+    "momentos": [
+      "aquecimento"
+    ],
+    "perfis": [
+      "resistente"
+    ],
+    "idadeMin": 6,
+    "idadeMax": 10,
+    "duracao": 20,
+    "descricao": "Explora o cotidiano e os interesses da criança.",
+    "instrucoes": [],
+    "observar": [],
+    "fechamento": [],
+    "imagem": "",
+    "pdf": "",
+    "status": "conceito"
+  }
+]
