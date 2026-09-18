@@ -31,7 +31,7 @@
       "Qual situação hoje mais subiu seu termômetro?",
       "O que te ajuda a fazer ele descer?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-001/capa.jpg",
     "pdf": "/jogos/JG-001/JG-001_Termometro-da-Preocupacao.pdf",
     "status": "pronto"
   },
@@ -66,7 +66,7 @@
     "fechamento": [
       "Qual preocupação hoje era mais exagero do que perigo?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-002/capa.jpg",
     "pdf": "/jogos/JG-002/JG-002_Caca-Preocupacoes.pdf",
     "status": "pronto"
   },
@@ -102,7 +102,7 @@
       "Qual respiração você levaria pra casa?",
       "Onde no corpo você sentiu que acalmou?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-003/capa.jpg",
     "pdf": "/jogos/JG-003/JG-003_Roleta-do-Respira.pdf",
     "status": "pronto"
   },
@@ -137,7 +137,7 @@
     "fechamento": [
       "Qual passo foi mais difícil? O que te ajudou a dar ele?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-004/capa.jpg",
     "pdf": "/jogos/JG-004/JG-004_Trilha-do-Passo-a-Passo.pdf",
     "status": "pronto"
   },
@@ -173,7 +173,7 @@
     "fechamento": [
       "O que faz seu monstro encolher mais rápido?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-005/capa.jpg",
     "pdf": "/jogos/JG-005/JG-005_Monstro-das-Preocupacoes.pdf",
     "status": "pronto"
   },
@@ -207,7 +207,7 @@
     "fechamento": [
       "Qual 'e se…' assusta menos agora que você pensou numa saída?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-006/capa.jpg",
     "pdf": "/jogos/JG-006/JG-006_Dado-do-E-Se.pdf",
     "status": "pronto"
   },
@@ -242,7 +242,7 @@
     "fechamento": [
       "Qual estratégia nova você quer testar essa semana?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-007/capa.jpg",
     "pdf": "/jogos/JG-007/JG-007_Bingo-do-Calmante.pdf",
     "status": "pronto"
   },
@@ -277,7 +277,7 @@
     "fechamento": [
       "Qual sinal seu corpo dá primeiro quando fica ansioso?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-008/capa.jpg",
     "pdf": "/jogos/JG-008/JG-008_Memoria-do-Corpo-Calmo.pdf",
     "status": "pronto"
   },
@@ -313,7 +313,7 @@
     "fechamento": [
       "Como você sabe que está saindo do verde?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-009/capa.jpg",
     "pdf": "/jogos/JG-009/JG-009_Semaforo-da-Ansiedade.pdf",
     "status": "pronto"
   },
@@ -348,7 +348,7 @@
     "fechamento": [
       "Qual ferramenta vai ser a primeira que você usa em casa?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-010/capa.jpg",
     "pdf": "/jogos/JG-010/JG-010_Caixa-de-Ferramentas-Calma.pdf",
     "status": "pronto"
   },
@@ -382,7 +382,7 @@
     "fechamento": [
       "Qual passo novo você quer colocar na sua noite?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-011/capa.jpg",
     "pdf": "/jogos/JG-011/JG-011_Trilha-da-Noite-Tranquila.pdf",
     "status": "pronto"
   },
@@ -416,7 +416,7 @@
     "fechamento": [
       "Qual pensamento ficou bem diferente depois de você ajustar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-012/capa.jpg",
     "pdf": "/jogos/JG-012/JG-012_Roleta-dos-Pensamentos.pdf",
     "status": "pronto"
   },
@@ -451,7 +451,7 @@
     "fechamento": [
       "Qual resposta você quer treinar pra usar de verdade?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-013/capa.jpg",
     "pdf": "/jogos/JG-013/JG-013_Domino-Respira-Reage.pdf",
     "status": "pronto"
   },
@@ -822,7 +822,7 @@
     "fechamento": [
       "O que faz seu vulcão baixar mais rápido?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-027/capa.jpg",
     "pdf": "/jogos/JG-027/JG-027_Vulcao-da-Raiva.pdf",
     "status": "pronto"
   },
@@ -857,7 +857,7 @@
     "fechamento": [
       "Qual situação hoje mais subiu seu termômetro?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-028/capa.jpg",
     "pdf": "/jogos/JG-028/JG-028_Termometro-da-Raiva.pdf",
     "status": "pronto"
   },
@@ -891,7 +891,7 @@
     "fechamento": [
       "Qual técnica você levaria pra usar em casa?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-029/capa.jpg",
     "pdf": "/jogos/JG-029/JG-029_Dado-Conta-ate-10.pdf",
     "status": "pronto"
   },
@@ -926,7 +926,7 @@
     "fechamento": [
       "Qual é o seu gatilho campeão?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-030/capa.jpg",
     "pdf": "/jogos/JG-030/JG-030_Detetive-do-Gatilho.pdf",
     "status": "pronto"
   },
@@ -961,7 +961,7 @@
     "fechamento": [
       "Qual resposta funcionou melhor pra você?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-031/capa.jpg",
     "pdf": "/jogos/JG-031/JG-031_Trilha-do-Vulcao.pdf",
     "status": "pronto"
   },
@@ -995,7 +995,7 @@
     "fechamento": [
       "Qual estratégia nova você quer testar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-032/capa.jpg",
     "pdf": "/jogos/JG-032/JG-032_Bingo-do-Acalma.pdf",
     "status": "pronto"
   },
@@ -1029,7 +1029,7 @@
     "fechamento": [
       "Qual resposta você quer treinar de verdade?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-033/capa.jpg",
     "pdf": "/jogos/JG-033/JG-033_Domino-Gatilho-Resposta.pdf",
     "status": "pronto"
   },
@@ -1063,7 +1063,7 @@
     "fechamento": [
       "Qual sinal seu corpo dá primeiro quando fica bravo?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-034/capa.jpg",
     "pdf": "/jogos/JG-034/JG-034_Memoria-do-Sinal.pdf",
     "status": "pronto"
   },
@@ -1097,7 +1097,7 @@
     "fechamento": [
       "Qual jeito de desabafar você mais gostou?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-035/capa.jpg",
     "pdf": "/jogos/JG-035/JG-035_Roleta-do-Desabafo.pdf",
     "status": "pronto"
   },
@@ -1132,7 +1132,7 @@
     "fechamento": [
       "Qual ferramenta vai ser a primeira que você usa?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-036/capa.jpg",
     "pdf": "/jogos/JG-036/JG-036_Caixa-da-Calma.pdf",
     "status": "pronto"
   },
@@ -1167,7 +1167,7 @@
     "fechamento": [
       "Como você sabe que está indo pro vermelho?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-037/capa.jpg",
     "pdf": "/jogos/JG-037/JG-037_Semaforo-da-Explosao.pdf",
     "status": "pronto"
   },
@@ -1201,7 +1201,7 @@
     "fechamento": [
       "O que te ajuda a continuar depois de errar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-038/capa.jpg",
     "pdf": "/jogos/JG-038/JG-038_Frustra-Nao-Trava.pdf",
     "status": "pronto"
   },
@@ -1236,7 +1236,7 @@
     "fechamento": [
       "Qual frase foi mais fácil de completar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-039/capa.jpg",
     "pdf": "/jogos/JG-039/JG-039_Dado-do-Eu-Sinto.pdf",
     "status": "pronto"
   },
@@ -1579,7 +1579,7 @@
     "fechamento": [
       "Qual emoção foi mais fácil de reconhecer hoje?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-052/capa.jpg",
     "pdf": "/jogos/JG-052/JG-052_Bau-das-Emocoes.pdf",
     "status": "pronto"
   },
@@ -1614,7 +1614,7 @@
     "fechamento": [
       "Qual emoção foi mais fácil de achar hoje?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-053/capa.jpg",
     "pdf": "/jogos/JG-053/JG-053_Detetive-dos-Sentimentos.pdf",
     "status": "pronto"
   },
@@ -1649,7 +1649,7 @@
     "fechamento": [
       "Qual emoção foi mais fácil de contar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-054/capa.jpg",
     "pdf": "/jogos/JG-054/JG-054_Roleta-das-Emocoes.pdf",
     "status": "pronto"
   },
@@ -1683,7 +1683,7 @@
     "fechamento": [
       "Qual situação hoje foi mais 'muito'?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-055/capa.jpg",
     "pdf": "/jogos/JG-055/JG-055_Termometro-do-Sentir.pdf",
     "status": "pronto"
   },
@@ -1717,7 +1717,7 @@
     "fechamento": [
       "Qual tipo de pensamento você quer ter mais vezes?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-056/capa.jpg",
     "pdf": "/jogos/JG-056/JG-056_Cubo-dos-Pensamentos.pdf",
     "status": "pronto"
   },
@@ -1752,7 +1752,7 @@
     "fechamento": [
       "Qual emoção seu corpo mostra mais forte?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-057/capa.jpg",
     "pdf": "/jogos/JG-057/JG-057_Onde-Eu-Sinto.pdf",
     "status": "pronto"
   },
@@ -1786,7 +1786,7 @@
     "fechamento": [
       "Qual emoção apareceu mais essa semana?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-058/capa.jpg",
     "pdf": "/jogos/JG-058/JG-058_Bingo-do-Sentir.pdf",
     "status": "pronto"
   },
@@ -1820,7 +1820,7 @@
     "fechamento": [
       "Qual situação foi mais difícil de lidar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-059/capa.jpg",
     "pdf": "/jogos/JG-059/JG-059_Trilha-do-Humor.pdf",
     "status": "pronto"
   },
@@ -1854,7 +1854,7 @@
     "fechamento": [
       "Teve uma emoção que combina com várias situações?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-060/capa.jpg",
     "pdf": "/jogos/JG-060/JG-060_Domino-Emocao-Situacao.pdf",
     "status": "pronto"
   },
@@ -1890,7 +1890,7 @@
     "fechamento": [
       "Se hoje fosse uma cor, qual seria?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-061/capa.jpg",
     "pdf": "/jogos/JG-061/JG-061_Cartas-do-Fim.pdf",
     "status": "pronto"
   },
@@ -1924,7 +1924,7 @@
     "fechamento": [
       "Qual rosto foi mais fácil de reconhecer?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-062/capa.jpg",
     "pdf": "/jogos/JG-062/JG-062_Memoria-Emocao-Rosto.pdf",
     "status": "pronto"
   },
@@ -1958,7 +1958,7 @@
     "fechamento": [
       "Qual emoção você já sabe lidar melhor?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-063/capa.jpg",
     "pdf": "/jogos/JG-063/JG-063_Roleta-do-Como-Lido.pdf",
     "status": "pronto"
   },
@@ -1993,7 +1993,7 @@
     "fechamento": [
       "Teve um dia que você mostrou uma máscara?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-064/capa.jpg",
     "pdf": "/jogos/JG-064/JG-064_Mascaras-do-Sentir.pdf",
     "status": "pronto"
   },
@@ -2337,7 +2337,7 @@
     "fechamento": [
       "Qual medalha você mais gostou de conquistar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-077/capa.jpg",
     "pdf": "/jogos/JG-077/JG-077_Trilha-da-Coragem.pdf",
     "status": "pronto"
   },
@@ -2372,7 +2372,7 @@
     "fechamento": [
       "O que faz seu monstro do medo ficar pequenininho?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-078/capa.jpg",
     "pdf": "/jogos/JG-078/JG-078_Monstro-do-Armario.pdf",
     "status": "pronto"
   },
@@ -2406,7 +2406,7 @@
     "fechamento": [
       "Qual degrau foi mais difícil de subir?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-079/capa.jpg",
     "pdf": "/jogos/JG-079/JG-079_Escada-do-Medo.pdf",
     "status": "pronto"
   },
@@ -2441,7 +2441,7 @@
     "fechamento": [
       "Qual desafio te deixou mais orgulhoso?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-080/capa.jpg",
     "pdf": "/jogos/JG-080/JG-080_Dado-da-Coragem.pdf",
     "status": "pronto"
   },
@@ -2475,7 +2475,7 @@
     "fechamento": [
       "Qual medo você percebeu que já venceu?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-081/capa.jpg",
     "pdf": "/jogos/JG-081/JG-081_Bingo-do-Enfrentei.pdf",
     "status": "pronto"
   },
@@ -2509,7 +2509,7 @@
     "fechamento": [
       "Qual carta se parece mais com você?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-082/capa.jpg",
     "pdf": "/jogos/JG-082/JG-082_Memoria-do-Corajoso.pdf",
     "status": "pronto"
   },
@@ -2544,7 +2544,7 @@
     "fechamento": [
       "Qual superpoder você levaria pra vida real?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-083/capa.jpg",
     "pdf": "/jogos/JG-083/JG-083_Roleta-do-Superpoder.pdf",
     "status": "pronto"
   },
@@ -2579,7 +2579,7 @@
     "fechamento": [
       "Qual medo hoje era mais exagero do que perigo?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-084/capa.jpg",
     "pdf": "/jogos/JG-084/JG-084_Cartas-do-Medo-Real-ou-Exagero.pdf",
     "status": "pronto"
   },
@@ -2613,7 +2613,7 @@
     "fechamento": [
       "O que te deixa mais tranquilo pra dormir?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-085/capa.jpg",
     "pdf": "/jogos/JG-085/JG-085_Trilha-do-Escuro.pdf",
     "status": "pronto"
   },
@@ -2647,7 +2647,7 @@
     "fechamento": [
       "Qual ato de coragem você quer treinar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-086/capa.jpg",
     "pdf": "/jogos/JG-086/JG-086_Domino-Medo-Coragem.pdf",
     "status": "pronto"
   },
@@ -2682,7 +2682,7 @@
     "fechamento": [
       "Qual poder do seu herói você também tem?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-087/capa.jpg",
     "pdf": "/jogos/JG-087/JG-087_Heroi-contra-o-Medo.pdf",
     "status": "pronto"
   },
@@ -2717,7 +2717,7 @@
     "fechamento": [
       "Qual previsão ficou bem diferente depois de você ajustar?"
     ],
-    "imagem": "",
+    "imagem": "/jogos/JG-088/capa.jpg",
     "pdf": "/jogos/JG-088/JG-088_Roleta-do-E-Se-Der-Certo.pdf",
     "status": "pronto"
   },

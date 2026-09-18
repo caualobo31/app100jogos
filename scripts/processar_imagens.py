@@ -13,8 +13,10 @@ O que o script faz, por jogo encontrado em imagens/:
     2. Gera um PDF (JPEG por página) em public/jogos/<id>/<id>_<Nome-Do-Jogo>.pdf
        — o nome vem do campo `nome` em data/jogos.json, igual ao padrão
        já usado em JG-001..JG-007. Se o id não existir no JSON, usa só o id.
-    3. Arquiva as imagens originais em imagens/_processadas/<id>/ (não apaga).
-    4. Roda scripts/sync_midia.py pra preencher `imagem`/`pdf` no JSON.
+    3. Gera public/jogos/<id>/capa.jpg a partir da página 1, pra Biblioteca
+       mostrar uma prévia real em vez do ícone genérico.
+    4. Arquiva as imagens originais em imagens/_processadas/<id>/ (não apaga).
+    5. Roda scripts/sync_midia.py pra preencher `imagem`/`pdf` no JSON.
 
 O `status` de cada jogo continua manual (passo 5 do fluxo no README).
 
@@ -81,15 +83,19 @@ def montar_pdf(gid, paginas, nomes):
     os.makedirs(dest_dir, exist_ok=True)
 
     for antigo in os.listdir(dest_dir):
-        if antigo.lower().endswith(".pdf"):
+        if antigo.lower().endswith(".pdf") or antigo.lower().startswith("capa."):
             os.remove(os.path.join(dest_dir, antigo))
 
     jpgs = []
-    for _, arquivo in paginas:
+    for i, (_, arquivo) in enumerate(paginas):
         im = Image.open(os.path.join(IMAGENS_DIR, arquivo)).convert("RGB")
         buf = io.BytesIO()
         im.save(buf, "JPEG", quality=90)
         jpgs.append(buf.getvalue())
+        if i == 0:
+            capa = im.copy()
+            capa.thumbnail((640, 640 * 4))
+            capa.save(os.path.join(dest_dir, "capa.jpg"), "JPEG", quality=82)
 
     destino = os.path.join(dest_dir, nome_arquivo)
     with open(destino, "wb") as fh:
