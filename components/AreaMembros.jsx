@@ -19,7 +19,6 @@ const C = {
   paper: "#FBFAF7", card: "#FFFFFF", line: "#EBE7E0", text: "#26302E", muted: "#6E7671",
 };
 const ICONES = { tabuleiro: LayoutGrid, cartas: Spade, memoria: Grid3x3, domino: Rows3, dados: Dices, bingo: LayoutGrid, trilha: Route, roleta: Disc };
-const PRONTOS = GAMES.filter((g) => g.status === "pronto").length;
 
 function Chip({ children, bg, fg, onClick, active, small }) {
   return (
@@ -172,22 +171,45 @@ function Detalhe({ jogo, onBack }) {
     </div>
   );
 }
+function OpcaoInicial({ Icon, iconBg, iconFg, titulo, descricao, cta, onClick }) {
+  return (
+    <button onClick={onClick} className="group text-left rounded-2xl p-7 flex flex-col gap-4 transition-all hover:-translate-y-0.5" style={{ backgroundColor: C.card, border: `1px solid ${C.line}`, boxShadow: "0 1px 2px rgba(20,48,43,.04)" }}>
+      <div className="w-12 h-12 rounded-xl flex items-center justify-center" style={{ backgroundColor: iconBg }}><Icon size={22} style={{ color: iconFg }} /></div>
+      <div><h2 className="text-lg font-semibold mb-1" style={{ color: C.ink }}>{titulo}</h2><p className="text-sm leading-relaxed" style={{ color: C.muted }}>{descricao}</p></div>
+      <span className="inline-flex items-center gap-1.5 text-sm font-semibold mt-auto" style={{ color: C.primary }}>{cta} <ChevronRight size={16} /></span>
+    </button>
+  );
+}
+function Home({ onChoose }) {
+  return (
+    <div className="max-w-2xl mx-auto text-center">
+      <h1 className="text-3xl font-semibold mb-3" style={{ color: C.ink }}>Bem-vinda ao Jogo Certo</h1>
+      <p className="mb-10" style={{ color: C.muted }}>Escolha como você quer começar.</p>
+      <div className="grid sm:grid-cols-2 gap-5 text-left">
+        <OpcaoInicial Icon={Sparkles} iconBg={C.accentSoft} iconFg={C.accent} titulo="Sistema Jogo Certo"
+          descricao="Responda 5 perguntas rápidas e receba os jogos ideais para esta sessão." cta="Começar" onClick={() => onChoose("certo")} />
+        <OpcaoInicial Icon={LayoutGrid} iconBg={C.primarySoft} iconFg={C.primary} titulo="Biblioteca"
+          descricao="Navegue e filtre todos os jogos do acervo por conta própria." cta="Explorar" onClick={() => onChoose("biblioteca")} />
+      </div>
+    </div>
+  );
+}
 export default function App() {
-  const [aba, setAba] = useState("certo"); const [jogoAberto, setJogoAberto] = useState(null);
+  const [aba, setAba] = useState(null); const [jogoAberto, setJogoAberto] = useState(null);
   const abrir = (j) => { setJogoAberto(j); window.scrollTo(0, 0); };
   return (
     <div style={{ backgroundColor: C.paper, color: C.text, minHeight: "100%", fontFamily: "'Inter', system-ui, sans-serif" }}>
       <header className="sticky top-0 z-10" style={{ backgroundColor: "rgba(251,250,247,.85)", backdropFilter: "blur(8px)", borderBottom: `1px solid ${C.line}` }}>
         <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between gap-4">
-          <div className="flex items-center gap-2.5"><div className="w-9 h-9 rounded-xl flex items-center justify-center" style={{ backgroundColor: C.ink }}><Compass size={19} color={C.accent} /></div><div className="leading-tight"><p className="font-semibold" style={{ color: C.ink }}>Jogo Certo</p><p className="text-xs" style={{ color: C.muted }}>Acervo terapêutico infantil</p></div></div>
-          {!jogoAberto && (<div className="flex items-center gap-3"><span className="hidden md:inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium" style={{ backgroundColor: C.primarySoft, color: C.primary }}>{PRONTOS}/100 prontos</span>
-            <nav className="flex items-center gap-1 rounded-xl p-1" style={{ backgroundColor: "#fff", border: `1px solid ${C.line}` }}>{[["certo", "Sistema Jogo Certo", Sparkles], ["biblioteca", "Biblioteca", LayoutGrid]].map(([id, label, Ic]) => (
+          <button onClick={() => { setAba(null); setJogoAberto(null); }} className="flex items-center gap-2.5"><div className="w-9 h-9 rounded-xl flex items-center justify-center" style={{ backgroundColor: C.ink }}><Compass size={19} color={C.accent} /></div><div className="leading-tight text-left"><p className="font-semibold" style={{ color: C.ink }}>Jogo Certo</p><p className="text-xs" style={{ color: C.muted }}>Acervo terapêutico infantil</p></div></button>
+          {!jogoAberto && aba && (<nav className="flex items-center gap-1 rounded-xl p-1" style={{ backgroundColor: "#fff", border: `1px solid ${C.line}` }}>{[["certo", "Sistema Jogo Certo", Sparkles], ["biblioteca", "Biblioteca", LayoutGrid]].map(([id, label, Ic]) => (
               <button key={id} onClick={() => setAba(id)} className="inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-medium transition-colors" style={{ backgroundColor: aba === id ? C.ink : "transparent", color: aba === id ? "#fff" : C.muted }}><Ic size={15} /> <span className="hidden sm:inline">{label}</span></button>))}
-            </nav></div>)}
+            </nav>)}
         </div>
       </header>
       <main className="max-w-6xl mx-auto px-5 py-10">
         {jogoAberto ? <Detalhe jogo={jogoAberto} onBack={() => setJogoAberto(null)} />
+          : !aba ? <Home onChoose={setAba} />
           : aba === "certo" ? (<><div className="max-w-2xl mx-auto text-center mb-10"><h1 className="text-3xl font-semibold mb-3" style={{ color: C.ink }}>Encontre o jogo certo para esta sessão</h1><p style={{ color: C.muted }}>Responda 5 perguntas rápidas. O sistema cruza objetivo, perfil, momento e tempo e mostra os jogos que mais fazem sentido — com o porquê de cada um.</p></div><JogoCerto onOpen={abrir} /></>)
             : <Biblioteca onOpen={abrir} />}
       </main>
